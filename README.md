@@ -1,4 +1,4 @@
-# Playwright End-to-End Tests for Universal Viewer (Release Candidate 5)
+# Playwright End-to-End Tests for Universal Viewer (Release Candidates)
 
 This repository contains end-to-end tests for Release Candidate 5 of the Universal Viewer application, built using Playwright. The tests validate critical functionalities, including UI interactions, settings, locale-specific behaviors, and universal navigation.
 
