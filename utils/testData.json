@@ -1,0 +1,33 @@
+{
+  "initialUrl": "https://universalviewer-git-fork-falveylibrarytechnol-62af27-bl-uv-team.vercel.app/#?xywh=-2713%2C-572%2C7993%2C4685",
+  "searchKeyword": "biomedicine",
+  "pageNumber": "5",
+  "sliderValue": "6",
+  "localeOptions": {
+    "cy-GB": {
+      "label": "Iaith",
+      "buttonName": "Dewisiadau",
+      "GBurl": "?xywh=-2714%2C-572%2C7995%2C4686"
+    },
+    "fr-FR": {
+      "label": "Langues",
+      "buttonName": "Paramètres",
+      "FRurl": "?xywh=-2715%2C-573%2C7998%2C4688"
+    },
+    "pl-PL": {
+      "label": "Język",
+      "buttonName": "Ustawienia",
+      "PLurl": "?xywh=-2711%2C-571%2C7990%2C4683"
+    },
+    "sv-SE": {
+      "label": "Språk",
+      "buttonName": "Inställningar",
+      "SEurl": "?xywh=-2720%2C-576%2C8008%2C4694"
+    },
+    "en-GB": {
+      "label": "Locale",
+      "buttonName": "Settings",
+      "ENurl": "?xywh=-2716%2C-574%2C8000%2C4689"
+    }
+  }
+}
