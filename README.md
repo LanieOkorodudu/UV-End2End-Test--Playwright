@@ -11,9 +11,18 @@ This repository contains end-to-end tests for Release Candidates  of the Univers
 
 ## Prerequisites
  Ensure the following tools are installed:
+ * Install Vs Code
  * Node.js (v16 or higher)
  * npm (bundled with Node.js)
  * Git (for version control)
+
+ ## Install Vs Code Extension
+ 1. Open Vs code
+ 2. Go to the Extensions Marketplace (Ctrl+Shift+X or Cmd+Shift+X on macOS).
+ 3. Search for and install the following extension:
+    * Playwright Test for VSCode (Verified by Microsoft).
+ 4. Restart VS Code to ensure the extension is properly loaded.
+
 
 ## Installation
 1. Clone the repository:
@@ -109,10 +118,10 @@ cd universal-viewer-tests`
 
     **`testdata.json`**  
       Stores configuration data, such as:
-      * The base application URL (initialUrl)
-      * pageNumber
-      * sliderValue
-      * search keywords
+      * The base application URL (`initialUrl`), which should be updated for each new fix or release candidate.  
+      * `pageNumber` for pagination settings.
+      * `sliderValue` for adjustable parameters.
+      * search keywords Search keywords for testing search functionality.  
       * Locale-specific options (e.g., button names and labels, buttonName, and specific locale urls)
 
 ## Debugging
