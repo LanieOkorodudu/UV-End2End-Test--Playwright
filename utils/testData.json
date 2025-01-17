@@ -1,5 +1,5 @@
 {
-  "initialUrl": "https://universalviewer-git-fork-falveylibrarytechnol-62af27-bl-uv-team.vercel.app/#?xywh=-2713%2C-572%2C7993%2C4685",
+  "initialUrl": "https://universalviewer-git-fork-falveylibrarytechnol-dd883d-bl-uv-team.vercel.app/#?xywh=-2714%2C-573%2C7996%2C4687",
   "searchKeyword": "biomedicine",
   "pageNumber": "5",
   "sliderValue": "6",
@@ -7,12 +7,12 @@
     "cy-GB": {
       "label": "Iaith",
       "buttonName": "Dewisiadau",
-      "GBurl": "?xywh=-2714%2C-572%2C7995%2C4686"
+      "GBurl": "?xywh=-2706%2C-568%2C7980%2C4678"
     },
     "fr-FR": {
       "label": "Langues",
       "buttonName": "Paramètres",
-      "FRurl": "?xywh=-2715%2C-573%2C7998%2C4688"
+      "FRurl": "?xywh=-2705%2C-568%2C7978%2C4677"
     },
     "pl-PL": {
       "label": "Język",
@@ -22,12 +22,12 @@
     "sv-SE": {
       "label": "Språk",
       "buttonName": "Inställningar",
-      "SEurl": "?xywh=-2720%2C-576%2C8008%2C4694"
+      "SEurl": "?xywh=-2703%2C-566%2C7974%2C4674"
     },
     "en-GB": {
       "label": "Locale",
       "buttonName": "Settings",
-      "ENurl": "?xywh=-2716%2C-574%2C8000%2C4689"
+      "ENurl": "?xywh=-2701%2C-565%2C7969%2C4671"
     }
   }
 }
